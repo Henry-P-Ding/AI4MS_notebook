@@ -12,25 +12,11 @@ Lab notebook for the **TUM PREP Summer Research Program** at the [AI-based Mater
 
 ## Project Overview
 
-Atomistic modeling plays a central role in materials science, enabling researchers to understand and predict the behavior of materials at the atomic scale. This project focuses on **global optimization of atomic structures** using machine learning methods, with two possible research directions:
-
-**Project 1: Multi-task Learning**
-Multi-task Gaussian processes for multi-fidelity learning — combining fast, lower-fidelity models (e.g., MACE) with accurate but expensive methods (DFT) to accelerate global optimization. Implemented into the [BOSS code](https://codebase.helmholtz.cloud/boss/boss).
-
-**Project 2: Grand Canonical Optimization**
-Extending atomic structure optimization to explore structures across varying stoichiometries, integrating property optimization with free energy minimization for functional materials discovery.
-
-**Tasks:**
-1. Review existing literature and identify promising solutions
-2. Implement suitable algorithms into the BOSS code
-3. Test and validate the implemented methods
-4. Apply the methods to atomic systems of interest to the AI4MS group
+## Project Progress
 
 ---
 
 ## Notebook Structure
-
-This notebook uses a three-tier knowledge system, designed for [Obsidian](https://obsidian.md/) and written in portable Markdown.
 
 ### 1. Daily Entries (`entries/`)
 Atomic, step-by-step daily logs. One file per day (`YYYY-MM-DD.md`). Each entry captures exactly what was done and is reproducible from scratch.
@@ -55,12 +41,3 @@ Literature notes using BibLaTeX citation keys as filenames (e.g., `@rinke2024.md
 ### 5. Templates (`templates/`)
 Consistent templates for daily entries and concept files.
 
----
-
-## Setup
-
-```bash
-git clone https://github.com/Henry-P-Ding/TUM_PREP_notebook.git
-```
-
-Open the cloned directory as a vault in Obsidian. Install the **Better BibLaTeX** community plugin for citation integration.

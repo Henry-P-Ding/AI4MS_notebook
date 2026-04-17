@@ -10,11 +10,3 @@ tags: [entry]
 
 ## Work Log
 
-### 
-
-## Results / Findings
-
-## Questions / Blockers
-
-## Tomorrow
-- 
