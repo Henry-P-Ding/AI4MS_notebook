@@ -1,0 +1,32 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / outputs (large files)
+*.h5
+*.hdf5
+*.pkl
+*.npy
+*.npz
+experiments/**/output/
+experiments/**/results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
