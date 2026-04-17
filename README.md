@@ -21,23 +21,12 @@ Lab notebook for the **TUM PREP Summer Research Program** at the [AI-based Mater
 ### 1. Daily Entries (`entries/`)
 Atomic, step-by-step daily logs. One file per day (`YYYY-MM-DD.md`). Each entry captures exactly what was done and is reproducible from scratch.
 
-### 2. Concept Files (topic directories)
-Compiled notes synthesizing understanding of specific tools, methods, and ideas. Updated as knowledge accumulates. Organized by topic:
-
-| Directory | Contents |
-|---|---|
-| `background/` | Core ML and materials science concepts |
-| `BOSS_notes/` | BOSS code documentation and usage |
-| `MACE_notes/` | MACE universal interatomic potential |
-| `DFT_notes/` | Density functional theory reference |
-| `HPC_notes/` | HPC/cluster computing at TUM |
+### 2. Concept Files (`notes/`)
+Compiled notes synthesizing understanding of specific tools, methods, and ideas.
 
 ### 3. Experiments (`experiments/`)
 Computational experiments: Jupyter notebooks, Python scripts, SLURM job scripts, and output data. Subdirectories named by experiment.
 
-### 4. Papers (`papers/`)
-Literature notes using BibLaTeX citation keys as filenames (e.g., `@rinke2024.md`). Integrated with Zotero via Better BibLaTeX. Bibliography in `TUM_PREP.bib`.
-
-### 5. Templates (`templates/`)
+### 4. Templates (`templates/`)
 Consistent templates for daily entries and concept files.
 
